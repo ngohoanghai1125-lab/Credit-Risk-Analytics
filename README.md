@@ -84,6 +84,12 @@ Customers exhibiting **all three risk signals** represented only **1.29% of the 
 
 Among customers with **DebtRatio > 1**, those with reported income had a **10.13% observed default rate**, compared with **5.58%** among customers with missing income. Income availability may therefore provide additional context when assessing high-debt customers.
 
+# Dataset
+
+The project uses the Give Me Some Credit dataset from the 2011 Kaggle competition.
+
+Source: Kaggle — Give Me Some Credit Dataset
+
 
 
 
