@@ -1,5 +1,5 @@
-Credit Risk Analytics — Give Me Some Credit
-Project Overview
+#Credit Risk Analytics — Give Me Some Credit
+#Project Overview
 
 This project analyzes 150,000 consumer credit records to identify customer segments associated with future serious delinquency.
 
